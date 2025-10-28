@@ -1,5 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-using ESGSimpleTracker.Models;
 
 namespace ESGSimpleTracker.Data;
 
